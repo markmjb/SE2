@@ -1,0 +1,5 @@
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Databaseconnection\bin\Debug\Databaseconnection.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Databaseconnection\bin\Debug\Databaseconnection.pdb
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Databaseconnection\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Databaseconnection\obj\Debug\Databaseconnection.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Databaseconnection\obj\Debug\Databaseconnection.pdb

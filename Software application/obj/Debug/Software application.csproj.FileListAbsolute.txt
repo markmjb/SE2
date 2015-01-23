@@ -1,0 +1,56 @@
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Software application.dll.config
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Software application.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Software application.pdb
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Antlr3.Runtime.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Databaseconnection.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\EntityFramework.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\EntityFramework.SqlServer.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Newtonsoft.Json.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Oracle.Web.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Owin.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\System.Web.Optimization.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\System.Web.Providers.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\WebGrease.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Oracle.DataAccess.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Databaseconnection.pdb
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\System.Web.Optimization.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Antlr3.Runtime.pdb
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Newtonsoft.Json.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\EntityFramework.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\EntityFramework.SqlServer.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\System.Web.Providers.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\obj\Debug\Software application.csprojResolveAssemblyReference.cache
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\obj\Debug\Software application.dll
+C:\Users\Mark\documents\visual studio 2013\Projects\Software application\Software application\obj\Debug\Software application.pdb
